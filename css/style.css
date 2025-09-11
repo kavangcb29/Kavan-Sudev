@@ -1,0 +1,9 @@
+html {
+  scroll-behavior: smooth;
+}
+
+/* Dark mode toggle (future upgrade) */
+body.dark {
+  background-color: #111;
+  color: #eee;
+}
