@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Me</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <nav class="bg-white shadow sticky top-0 z-10 p-4 text-center">
+    <a href="index.html" class="mr-6 text-indigo-600">Home</a>
+    <a href="about.html" class="mr-6 font-bold">About</a>
+    <a href="projects.html" class="mr-6">Projects</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <section class="container mx-auto py-16 px-6">
+    <h2 class="text-3xl font-bold text-center mb-8">About Me</h2>
+    <p class="max-w-3xl mx-auto text-gray-700 text-lg leading-relaxed">
+      I'm a passionate developer with a love for modern web design, clean code, and creative problem-solving.
+      With experience in HTML, CSS, JavaScript, and frameworks like React, I enjoy turning ideas into real projects.
+    </p>
+  </section>
+</body>
+</html>
